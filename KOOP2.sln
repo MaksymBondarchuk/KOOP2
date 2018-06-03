@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KOOP2", "KOOP2\KOOP2.vcxproj", "{A371606C-CD1F-474A-B629-8CD793DD2BB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Debug|x64.ActiveCfg = Debug|x64
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Debug|x64.Build.0 = Debug|x64
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Debug|x86.Build.0 = Debug|Win32
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Release|x64.ActiveCfg = Release|x64
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Release|x64.Build.0 = Release|x64
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Release|x86.ActiveCfg = Release|Win32
+		{A371606C-CD1F-474A-B629-8CD793DD2BB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AE6879-7FE6-4461-B3E4-82A1A506E5FB}
+	EndGlobalSection
+EndGlobal
